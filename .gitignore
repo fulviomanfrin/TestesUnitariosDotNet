@@ -1,0 +1,61 @@
+# General
+*.AssemblyInfo.cs
+*.cache
+*.sln.cache
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.csproj.user
+*.a
+*.bin
+*.obj
+*.pdb
+Thumbs.db
+
+# NuGet Packages
+*.nupkg
+packages/*
+!**/packages/repositories.config
+!packages/repositories.config
+
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+x64/
+bin/
+obj/
+[Oo]utput/
+[Bb]uild/
+
+# Visual Studio
+.vs/
+*.vs/
+*.vsconfig
+
+# Azure
+.azure
+
+# ReSharper
+_ReSharper*/
+*.ReSharper
+*.ReSharper.*
+
+# Rider
+.idea/
+*.sln.iml
+*.idea.idea.iml
+
+# CodeMaid
+.cmignore
+*.codemaid.metadata.json
+
+# Source Control
+*.vssscc
+*.vsscc*
+.svn
+CVS
+
+# Local Settings
+.env
+*.secrets
