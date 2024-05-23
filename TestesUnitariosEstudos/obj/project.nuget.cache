@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ChgoBebFPJUUF8WRamk4A4fVnPOep5Kd52FxAGiVB20hpAeb4zDIUAQA2Rx+v1mv1Bivry1OpnIjtJSYmkOsRQ==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\Dio\\Avanade  .NET\\DesafioTestesFinal\\TestesUnitariosDotNet\\TestesUnitariosEstudos\\TestesUnitariosEstudos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fulvi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\fulvi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\fulvi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\fulvi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
